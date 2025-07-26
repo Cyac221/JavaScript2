@@ -17,6 +17,13 @@ let producto_50 = nota_prod*porcentaje_producto
 //Def
 let definitiva = conocimiento_20 + desempeno_30 + producto_50
 
+if (definitiva >=3){
+    mensaje = "Ganaste la materia"
+}
+else{
+    mensaje = "Pediste la materia"
+}
+
 //Datos de salida
 
 console.log("+++-----informe académico-----+++")
@@ -28,3 +35,7 @@ console.log(`Nota Desempeño --->: ${nota_desempeno} -- ${desempeno_30.toFixed(2
 console.log(`Nota Producto --->: ${nota_prod} -- ${producto_50.toFixed(2)}`)
 console.log("+++----------------------+++")
 console.log(`Nota Definitiva --->: ${definitiva.toFixed(2)}`)
+console.log("+++----------------------+++")
+console.log(mensaje)
+
+
