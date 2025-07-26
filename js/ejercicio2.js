@@ -2,7 +2,7 @@
 
 //Aux transporte
 
-/*
+
 let nombre_empleado = prompt("Empleado: ")
 let salario_base = parseFloat(prompt("Salario: "))
 
@@ -29,5 +29,5 @@ console.log("+++-----Salario-----+++")
 console.log(`Base salario: ${salario_base}`)
 console.log(`Tiene derecho a Aux transporte? --->: ${derecho}`)
 console.log(`Neto --->: ${salario} `)
-*/
+
 
