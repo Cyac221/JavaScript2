@@ -15,4 +15,3 @@ if (user_in == user && pass_in == password){
 else{
     console.log("Contraseña y/o usuario incorrecto. Impostor!")
 }
-
