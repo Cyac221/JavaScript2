@@ -19,3 +19,4 @@ if(numero_dia>=1 && numero_dia<=7){
 else{
     console.log("Debe ser entre 1 y 7. Aguevado")
 }
+
