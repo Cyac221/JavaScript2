@@ -20,3 +20,24 @@ switch (nro) {
         break;
 }
 
+let genero = prompt("Genero")
+
+switch (genero) {
+    case "Masculino":
+        console.log("Este es el caso 1")
+        break;
+
+    case "Femenino":
+        console.log("Caso 2")
+        break;
+
+    case "Binario":
+        console.log("Caso 3")
+        break;
+    case "Otro":
+        console.log("Caso 4")
+        break;
+    default:
+        console.log("Concentraiiito' 😂")
+        break;
+}
