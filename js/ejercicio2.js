@@ -31,3 +31,4 @@ console.log(`Tiene derecho a Aux transporte? --->: ${derecho}`)
 console.log(`Neto --->: ${salario} `)
 
 
+
